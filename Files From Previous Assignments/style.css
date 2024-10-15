@@ -121,3 +121,7 @@ section {
     margin: 20px;
     padding: 10px;
 }
+
+img {
+    opacity: 80%;
+}
