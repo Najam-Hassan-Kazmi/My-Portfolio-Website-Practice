@@ -1,10 +1,14 @@
 # 2024
 # Najam-Hassan-Kazmi
-This is the Assignment 3 of my course Web Programming as Professor Sonsoles Lopez. Professor, wave your hand at the camera if you are watching this! Hope you accepted my Connection request on LinkedIn.😁
+Have a look at my FIRST EVER Portfolio website! This contains HTML and CSS for now, and I will be adding JavaScript as well as React to this very soon. Let's see what happens with this experience.
 
-So now, I am going to make this repo public(So that I can use the GitHub Pages) and for that, I will be giving it a better documentation.
+This is the assignment for week 1 in the course "Web Programming I". We are required to create a portfolio website with some rules and conditions, using the material that had been provided.
 
-The course name is Web Programming where our basic tasks were to learn HTML, CSS and GitHub and some more in the next assignments. This assignment was for the Assignment 3 which heloed me to learn Git and GitHub. Here are the exact requirements:
+We had to make 4 pages that were linked to the main page i.e. index.html.The others are named cv.html, hobbies.html and contact.html.
+
+There is a file named style.css for the css rules as well to make the website a bit organized.
+
+The course name is Web Programming where our basic tasks were to learn HTML, CSS and GitHub and some more in the next assignments. This assignment was for the Assignment 3 which helped me to learn Git and GitHub. Here are the exact requirements:
 
 Creating repositories
 Create a new repository on GitHub and give it a relevant name. The repository should have a MIT license and a README file
