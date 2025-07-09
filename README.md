@@ -1,6 +1,6 @@
 # My Portfolio Website Practice
 
-![Portfolio Banner](https://raw.githubusercontent.com/Najam-Hassan-Kazmi/My-Portfolio-Website-Practice/main/docs/banner.jpeg)
+![Portfolio Banner](https://raw.githubusercontent.com/Najam-Hassan-Kazmi/My-Portfolio-Website-Practice/main/docs/banner.png)
 
 Welcome to my Portfolio Website Practice repository!  
 This project showcases my skills in **HTML**, **CSS**, and web design, featuring multiple pages and a clean, responsive layout.
@@ -17,6 +17,7 @@ Check out the live website here:
 
 ## 📂 Project Structure
 
+```plaintext
 /docs
 ├── index.html
 ├── cv.html
@@ -24,7 +25,7 @@ Check out the live website here:
 ├── hobbies.html
 ├── style.css
 ├── profile.png
-
+```
 
 ---
 
